@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Smakoyki i przysmaki z Mykonos_seo-long_bfc0e3</name>
+   <tag></tag>
+   <elementGuidId>089add9d-bbb2-476e-b85d-2d8661581fd7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__layout']/div/div[2]/main/section[2]/div/div/div/div[2]/div/div/div[2]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.seo-long__swiper--chevron</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>1da52170-a256-459e-9cbc-5bfec9371507</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>seo-long__swiper--chevron</value>
+      <webElementGuid>7ec2c6fa-abee-4433-9bac-45e3b4114358</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__layout&quot;)/div[1]/div[@class=&quot;default-layout__content&quot;]/main[@class=&quot;szukaj&quot;]/section[@class=&quot;section blue-Gradient&quot;]/div[@class=&quot;wrap&quot;]/div[1]/div[@class=&quot;seo-long__container background&quot;]/div[@class=&quot;seo-long__container--row&quot;]/div[@class=&quot;seo-long__container--col&quot;]/div[@class=&quot;swiper-r&quot;]/div[@class=&quot;seo-long__swiper--arrow right&quot;]/div[@class=&quot;seo-long__swiper--chevron&quot;]</value>
+      <webElementGuid>e767b525-3d75-4c2e-8773-afd49a4f4183</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__layout']/div/div[2]/main/section[2]/div/div/div/div[2]/div/div/div[2]/div</value>
+      <webElementGuid>8f9785dd-d967-4a36-a159-ac5e28e0a2c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section[2]/div/div/div/div[2]/div/div/div[2]/div</value>
+      <webElementGuid>d7ec9da3-642e-465a-b5d3-3dd178676357</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

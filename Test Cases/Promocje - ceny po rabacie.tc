@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Promocje - ceny po rabacie</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>39ae349c-7ccb-44bd-8497-e5110d0ed7c1</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>caa3db62-7e22-4486-908f-aade3c64b90b</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>caa3db62-7e22-4486-908f-aade3c64b90b</id>
+      <masked>false</masked>
+      <name>price1</name>
+   </variable>
+</TestCaseEntity>

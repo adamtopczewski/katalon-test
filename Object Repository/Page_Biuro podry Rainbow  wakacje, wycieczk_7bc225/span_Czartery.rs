@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Czartery</name>
+   <tag></tag>
+   <elementGuidId>e396d785-d4fc-4ad8-b8e5-f2bd42d57da1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='mainHeader']/div/div/header/nav/div[4]/a/div/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.desktop__kategoria-wrapper.desktop__kategoria-wrapper-z-podkategorie-hover > span.desktop__kategoria-text</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>5cd7ab3d-4756-4728-8c08-9e746a33d51b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>desktop__kategoria-text</value>
+      <webElementGuid>1a3b4a90-fc05-4280-a3fd-c32eec0688a2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Czartery</value>
+      <webElementGuid>ffafdc80-3b57-42ad-a055-34aeb516f719</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mainHeader&quot;)/div[@class=&quot;header__desktop&quot;]/div[@class=&quot;desktop__header-position&quot;]/header[@class=&quot;desktop__container-position&quot;]/nav[@class=&quot;desktop__container-kategorie&quot;]/div[4]/a[@class=&quot;desktop__kategorie_siteMap__link&quot;]/div[@class=&quot;desktop__kategoria-wrapper desktop__kategoria-wrapper-z-podkategorie-hover&quot;]/span[@class=&quot;desktop__kategoria-text&quot;]</value>
+      <webElementGuid>9184cd35-32ab-4fff-ab21-39af81778476</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='mainHeader']/div/div/header/nav/div[4]/a/div/span</value>
+      <webElementGuid>7b80c325-4437-482b-8653-637a4dfb6832</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Last Minute'])[1]/following::span[1]</value>
+      <webElementGuid>88fc0b46-f114-4c2a-a1c7-33b9e3f0cec4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Promocje'])[1]/following::span[2]</value>
+      <webElementGuid>5e09fe31-a213-4ff0-87d9-613800218d8d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Wycieczki fakultatywne'])[1]/preceding::span[1]</value>
+      <webElementGuid>2a89f8df-a21b-41be-9e87-19687b1bd836</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Blog'])[1]/preceding::span[2]</value>
+      <webElementGuid>cc1b8c77-3ce1-4002-8dd4-231dfdbeb166</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Czartery']/parent::*</value>
+      <webElementGuid>cc0f1899-4209-434e-8b21-c3196e0abeff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/a/div/span</value>
+      <webElementGuid>74e5c546-3122-450c-ba5f-a65b921890b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Czartery' or . = 'Czartery')]</value>
+      <webElementGuid>2bd09113-14f0-4cbe-a62b-dcadeb5ee962</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Grecja</name>
+   <tag></tag>
+   <elementGuidId>d9a45b17-2de4-4c4a-84c9-ee91a7020084</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__layout']/div/div[2]/main/section[2]/div/div/div/div/div/div[2]/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.seo-long__text--country</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>76625620-cd9f-401c-b0e8-5791517ad855</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>seo-long__text--country</value>
+      <webElementGuid>123fe78a-2952-437c-a94a-37cd577bd7e7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+          Grecja
+        </value>
+      <webElementGuid>f678c9c4-8cdb-4dc5-8e50-a786964ce88f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__layout&quot;)/div[1]/div[@class=&quot;default-layout__content&quot;]/main[@class=&quot;szukaj&quot;]/section[@class=&quot;section blue-Gradient&quot;]/div[@class=&quot;wrap&quot;]/div[1]/div[@class=&quot;seo-long__container background&quot;]/div[@class=&quot;seo-long__container--row&quot;]/div[@class=&quot;seo-long__container--col w44&quot;]/div[@class=&quot;seo-long__container--country&quot;]/div[@class=&quot;seo-long__text--country&quot;]</value>
+      <webElementGuid>6639a3b2-ccdd-4f27-a808-8ceba6e73dfc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__layout']/div/div[2]/main/section[2]/div/div/div/div/div/div[2]/div[2]</value>
+      <webElementGuid>27b6b342-82e9-42ce-8ff1-af445f9f5158</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mapa'])[1]/following::div[9]</value>
+      <webElementGuid>08e27076-7f2e-4a7e-8289-866a8934cf2e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lista'])[1]/following::div[10]</value>
+      <webElementGuid>625fa3af-d94e-414e-87ac-a459a14ebb8a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ateny'])[1]/preceding::div[1]</value>
+      <webElementGuid>e29ea0fb-be11-421f-a624-9d0c0c459334</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section[2]/div/div/div/div/div/div[2]/div[2]</value>
+      <webElementGuid>abad5e05-5a58-4350-8340-c13ab04a940a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '
+          Grecja
+        ' or . = '
+          Grecja
+        ')]</value>
+      <webElementGuid>b11ef68a-28d4-45fa-aff1-2af8bdeed784</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

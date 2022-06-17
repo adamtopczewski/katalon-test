@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_11 472 z</name>
+   <tag></tag>
+   <elementGuidId>cda5a490-592c-46e9-9e7c-117bc7c3c37a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__layout']/div/div[2]/main/section/div/section/div/div/div/div[2]/div[4]/div[2]/a/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.bloczek__cena-kreslona</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>5c34b708-60b0-4bcc-818d-2bd67f7a401a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>bloczek__cena-kreslona</value>
+      <webElementGuid>b5cf0d97-b7d0-4e1a-90c2-0963123edce4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>11 472 zł</value>
+      <webElementGuid>34dfe548-e8b5-4ba0-b88f-b0a160fde979</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__layout&quot;)/div[1]/div[@class=&quot;default-layout__content&quot;]/main[@class=&quot;szukaj&quot;]/section[@class=&quot;section no-padding&quot;]/div[@class=&quot;wrap szukaj-wrap&quot;]/section[@class=&quot;content&quot;]/div[@class=&quot;content__bloczki&quot;]/div[@class=&quot;bloczek__container&quot;]/div[@class=&quot;bloczek__wrapper&quot;]/div[@class=&quot;bloczek__container-right&quot;]/div[@class=&quot;bloczek__content&quot;]/div[@class=&quot;content__right&quot;]/a[@class=&quot;content__right&quot;]/span[@class=&quot;bloczek__cena-kreslona&quot;]</value>
+      <webElementGuid>54e31c69-e8dc-4235-be84-9610d1ab58be</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__layout']/div/div[2]/main/section/div/section/div/div/div/div[2]/div[4]/div[2]/a/span</value>
+      <webElementGuid>d10a4d8f-241c-4c87-8424-a88a3625118d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Śniadania, obiady i kolacje'])[1]/following::span[1]</value>
+      <webElementGuid>54b59104-f9a5-488e-b70e-6555f420cad5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Warszawa Chopin'])[1]/following::span[2]</value>
+      <webElementGuid>f633e3fc-aae9-4ecf-8f14-836ee241eafe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='zł/os.'])[1]/preceding::span[2]</value>
+      <webElementGuid>445d588d-3575-4a23-9ee6-e92ec0e7ce34</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SZCZEGÓŁY'])[1]/preceding::span[3]</value>
+      <webElementGuid>2fa30953-7fec-442a-ac11-d488713f31c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='11 472 zł']/parent::*</value>
+      <webElementGuid>82891f00-16df-4acd-8a21-e1345ef5c16d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/span</value>
+      <webElementGuid>66e8b532-3385-47ed-890a-26006b0e0c82</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '11 472 zł' or . = '11 472 zł')]</value>
+      <webElementGuid>019bbf95-464a-4856-9ffa-deee76d2c255</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

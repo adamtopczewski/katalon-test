@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Filtry a query</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f644bbf0-952b-4187-87aa-e824899318bf</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>4931c482-0e5c-45dd-8ed0-e9ae68ea56fd</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>4931c482-0e5c-45dd-8ed0-e9ae68ea56fd</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+</TestCaseEntity>
