@@ -7,15 +7,50 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='__layout']/div/div[2]/main/section/div/aside/div[3]/div[3]/section/div[2]/label/div</value>
+         <value>//div[@id='__layout']/div/div[2]/main/section/div/section/header/div/div/div</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value></value>
+         <value>div.icon.vue-select__arrow</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>a42a06f5-f80e-462d-a715-bec493720103</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>icon vue-select__arrow</value>
+      <webElementGuid>f807e29a-acde-4b39-b381-b3304b9927a9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> [object Object]
+
+
+</value>
+      <webElementGuid>3e644fe3-3907-472d-844d-f1f78b05ee34</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__layout&quot;)/div[1]/div[@class=&quot;default-layout__content&quot;]/main[@class=&quot;szukaj&quot;]/section[@class=&quot;section no-padding&quot;]/div[@class=&quot;wrap szukaj-wrap&quot;]/section[@class=&quot;content&quot;]/header[@class=&quot;content__header&quot;]/div[@class=&quot;vue-select content__sort&quot;]/div[@class=&quot;vue-select__input&quot;]/div[@class=&quot;icon vue-select__arrow&quot;]</value>
+      <webElementGuid>d8ea1ebe-7fa0-4e30-99f2-fe39603da4c5</webElementGuid>
+   </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
@@ -33,7 +68,7 @@
       <webElementGuid>d7993fdb-7fa2-474f-aad5-016e8372161f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
@@ -126,6 +161,68 @@
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
+      <value>//div[@id='__layout']/div/div[2]/main/section/div/section/header/div/div/div</value>
+      <webElementGuid>42e51c13-ab13-4aaa-87ff-fb38a5e0006e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='od najbardziej popularnych'])[1]/following::div[1]</value>
+      <webElementGuid>aab09f96-48d2-4b7c-bd0c-87282fe2fdcd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sortuj:'])[1]/following::div[1]</value>
+      <webElementGuid>3d9b249d-c0a3-45c0-a552-eaf4afbe712b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Wypoczynek • Egipt: Marsa Alam'])[1]/preceding::div[23]</value>
+      <webElementGuid>02c4697d-febe-45a8-b275-325dece7d49f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='inne terminy'])[1]/preceding::div[27]</value>
+      <webElementGuid>78efba1a-421d-45a7-b460-0f25c992f47b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section/header/div/div/div</value>
+      <webElementGuid>7b7a6ac9-ff80-4afb-b172-fb1d06e250ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' [object Object]
+
+
+' or . = ' [object Object]
+
+
+')]</value>
+      <webElementGuid>67de5474-355c-4c3a-9446-741a2cd8d6b7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
       <value>//div[@id='__layout']/div/div[2]/main/section/div/aside/div[3]/div[3]/section/div[2]/label/div</value>
       <webElementGuid>29bb680a-6da1-4fda-9897-027e3f7d629a</webElementGuid>
    </webElementXpaths>
@@ -168,20 +265,6 @@
       <type>Main</type>
       <value>//div[3]/section/div[2]/label/div</value>
       <webElementGuid>81c73436-251b-4e2e-bd17-f92aa4c6ecdb</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:customAttributes</name>
-      <type>Main</type>
-      <value>//div[(text() = ' [object Object]
-
-
-' or . = ' [object Object]
-
-
-')]</value>
-      <webElementGuid>6f82f76b-eba0-4f19-b1f7-987cd88675c7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>

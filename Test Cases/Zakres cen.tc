@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Zakres cen</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a830c580-5214-4c19-8a29-e2171f230371</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>3ae7ee51-0973-4a2e-836f-370c176f91ce</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>3ae7ee51-0973-4a2e-836f-370c176f91ce</id>
+      <masked>false</masked>
+      <name>numberComp</name>
+   </variable>
+</TestCaseEntity>

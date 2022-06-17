@@ -1,5 +1,5 @@
 {
-  "keywordFileContentHash": "AF769D1513D2C3AF6A77E54EDD5F800D",
+  "keywordFileContentHash": "874EBADD2033EBFAB366E0A5DC73FEB4",
   "keywordClasses": [
     {
       "name": "testy.General",
@@ -92,6 +92,51 @@
           "parameters": [
             {
               "name": "dates",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.Object",
+                "unresolvedClassName": "java.lang.Object",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": true,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        },
+        {
+          "name": "transformPriceToInt",
+          "parameters": [
+            {
+              "name": "object",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.Object",
+                "unresolvedClassName": "java.lang.Object",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": true,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            },
+            {
+              "name": "compTo",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.Object",
+                "unresolvedClassName": "java.lang.Object",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": true,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            },
+            {
+              "name": "GreaterOrLess",
               "initialExpression": "",
               "type": {
                 "fullClassName": "java.lang.Object",

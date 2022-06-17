@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_od najniszej ceny</name>
+   <tag></tag>
+   <elementGuidId>4fa35f80-d509-401c-91f8-1fd94e141041</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__layout']/div/div[2]/main/section/div/section/header/div/ul/li[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>004db917-6bcc-47fd-b521-6ccd38389e9d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>vue-select__option vue-select__option-disabled</value>
+      <webElementGuid>94571355-fccb-4a62-8b95-16b611483c9a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>od najniższej ceny </value>
+      <webElementGuid>ed4118e8-c4c6-4665-add3-c059624e5134</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__layout&quot;)/div[1]/div[@class=&quot;default-layout__content&quot;]/main[@class=&quot;szukaj&quot;]/section[@class=&quot;section no-padding&quot;]/div[@class=&quot;wrap szukaj-wrap&quot;]/section[@class=&quot;content&quot;]/header[@class=&quot;content__header&quot;]/div[@class=&quot;vue-select content__sort open&quot;]/ul[@class=&quot;vue-select__select&quot;]/li[@class=&quot;vue-select__option vue-select__option-disabled&quot;]</value>
+      <webElementGuid>f18939c8-6941-4637-8cc6-fe4a0b58a647</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>2727b236-ed19-433e-97f3-8327de05d5b2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>vue-select__option vue-select__option-disabled</value>
+      <webElementGuid>c9973d8b-4bad-40a1-877a-3f7662e9e0e7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>od najniższej ceny </value>
+      <webElementGuid>7704bf93-8605-425c-9268-9aeb32780073</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__layout&quot;)/div[1]/div[@class=&quot;default-layout__content&quot;]/main[@class=&quot;szukaj&quot;]/section[@class=&quot;section no-padding&quot;]/div[@class=&quot;wrap szukaj-wrap&quot;]/section[@class=&quot;content&quot;]/header[@class=&quot;content__header&quot;]/div[@class=&quot;vue-select content__sort open&quot;]/ul[@class=&quot;vue-select__select&quot;]/li[@class=&quot;vue-select__option vue-select__option-disabled&quot;]</value>
+      <webElementGuid>af77a11d-581d-4cae-b10f-ce05dabc3747</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__layout']/div/div[2]/main/section/div/section/header/div/ul/li[3]</value>
+      <webElementGuid>290b8791-57de-4188-ad77-76d483cea9c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='od najbliższego terminu'])[1]/following::li[1]</value>
+      <webElementGuid>8cfc443b-3088-47ac-a5cb-871598663f85</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='od najbardziej popularnych'])[2]/following::li[2]</value>
+      <webElementGuid>43ad97d7-9250-4a45-b36e-f32c677ec474</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='od najwyższej ceny'])[1]/preceding::li[1]</value>
+      <webElementGuid>063cdf60-465c-469f-948f-2dcd33f66bf0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]</value>
+      <webElementGuid>526c3b1d-6723-471f-b741-8f68e035fb08</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'od najniższej ceny ' or . = 'od najniższej ceny ')]</value>
+      <webElementGuid>36e3aeb9-f9f4-4424-8477-c9c34fc04ded</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

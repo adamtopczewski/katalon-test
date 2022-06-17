@@ -22,6 +22,102 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
+      <webElementGuid>944153b9-b496-44ae-a9d4-65dd0847c2d1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>rodo-alert__close</value>
+      <webElementGuid>60fcde90-c9e5-4466-b7c0-18713d70d18f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>×</value>
+      <webElementGuid>b41d9021-37a9-434a-9208-2038a9ca83df</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__layout&quot;)/div[1]/div[@class=&quot;footer__background&quot;]/div[@class=&quot;rodo-alert&quot;]/div[@class=&quot;rodo-alert__close-wraper&quot;]/div[@class=&quot;rodo-alert__close&quot;]</value>
+      <webElementGuid>0aad1147-c313-4f28-addd-6b8d1fc3f2c6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>91c55bd4-bd6f-42f1-974d-de1f2fb743c4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>rodo-alert__close</value>
+      <webElementGuid>7e71baf6-199e-4ab7-9b8c-1672f66ddf5f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>×</value>
+      <webElementGuid>2f7bc965-bcf8-4f84-b498-3481660a4bac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__layout&quot;)/div[1]/div[@class=&quot;footer__background&quot;]/div[@class=&quot;rodo-alert&quot;]/div[@class=&quot;rodo-alert__close-wraper&quot;]/div[@class=&quot;rodo-alert__close&quot;]</value>
+      <webElementGuid>902c8e0f-aa34-4788-8b84-bbd7c36ffc63</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>44ad7c96-85e3-4075-bf2e-e2d440e42b68</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>rodo-alert__close</value>
+      <webElementGuid>b7161a21-c497-45a9-bdff-d1b55275e152</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>×</value>
+      <webElementGuid>1781d0ef-8e8f-4186-85d3-e240f04f5518</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__layout&quot;)/div[1]/div[@class=&quot;footer__background&quot;]/div[@class=&quot;rodo-alert&quot;]/div[@class=&quot;rodo-alert__close-wraper&quot;]/div[@class=&quot;rodo-alert__close&quot;]</value>
+      <webElementGuid>1639dcf7-358d-444d-bcd5-c8ff6161b65d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
       <webElementGuid>3a596d54-dd86-4294-ade8-c6556c7c02d0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
@@ -33,7 +129,7 @@
       <webElementGuid>19ba9572-7b8b-4ab5-aec4-364f858069fd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
@@ -54,7 +150,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='__layout']/div/div[4]/div[2]/div/div</value>
-      <webElementGuid>879b2c97-949a-4093-810e-66c8312aa85c</webElementGuid>
+      <webElementGuid>de29074d-51ab-4930-8a01-c67cabbec4ae</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +158,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Więcej...'])[1]/following::div[2]</value>
-      <webElementGuid>ffc78207-126d-4411-bb27-24977cc4db7f</webElementGuid>
+      <webElementGuid>f0931cdc-69d0-43ab-be4d-67838cf39b2a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +166,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Wszelkie prawa zastrzeżone ©1991-2022 Biuro podróży Rainbow Tours S.A.'])[1]/following::div[3]</value>
-      <webElementGuid>2da9f7f1-5175-48e1-bdb5-f21e962d2fe0</webElementGuid>
+      <webElementGuid>ab9d79c9-f83d-4904-8fb5-8c07af8a4cd6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +174,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='×']/parent::*</value>
-      <webElementGuid>02f91b5e-b92d-4571-9d4d-825cb8999db8</webElementGuid>
+      <webElementGuid>afd263b7-001c-48fe-8194-643360c98096</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +182,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[4]/div[2]/div/div</value>
-      <webElementGuid>5b067642-6e92-418f-a256-b0acc04f11e5</webElementGuid>
+      <webElementGuid>692ff33d-7c3d-48ac-89b3-356f299b8a77</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,6 +190,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = '×' or . = '×')]</value>
-      <webElementGuid>ad0f7e2c-1bbf-4bbe-b87b-bb3cd73f18d9</webElementGuid>
+      <webElementGuid>77284ab0-0c70-4986-a761-2c73a8eac73f</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

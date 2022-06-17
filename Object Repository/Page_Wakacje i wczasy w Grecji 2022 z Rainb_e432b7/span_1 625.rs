@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_1 625</name>
+   <tag></tag>
+   <elementGuidId>1725581b-c997-4810-bd02-fbce0ce3176f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__layout']/div/div[2]/main/section/div/section/div/div/div/div[2]/div[3]/div[2]/a/div/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.bloczek__cena.h1</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>cd8e57c0-cfc0-4331-8088-07b35b97069f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>bloczek__cena h1</value>
+      <webElementGuid>63c7e190-706c-4a3c-83bc-8baa795195b3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>1 625</value>
+      <webElementGuid>b04468db-6736-4161-96ff-b0ca83701ba6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__layout&quot;)/div[1]/div[@class=&quot;default-layout__content&quot;]/main[@class=&quot;szukaj&quot;]/section[@class=&quot;section no-padding&quot;]/div[@class=&quot;wrap szukaj-wrap&quot;]/section[@class=&quot;content&quot;]/div[@class=&quot;content__bloczki&quot;]/div[@class=&quot;bloczek__container&quot;]/div[@class=&quot;bloczek__wrapper&quot;]/div[@class=&quot;bloczek__container-right&quot;]/div[@class=&quot;bloczek__content&quot;]/div[@class=&quot;content__right&quot;]/a[@class=&quot;content__right&quot;]/div[@class=&quot;bloczek__cena-wrapper&quot;]/span[@class=&quot;bloczek__cena h1&quot;]</value>
+      <webElementGuid>cb7c3dc6-0cb4-471b-b2af-c4278e6cac18</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>cfab4534-b1ae-466e-8f7b-79c2c15c05cc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>bloczek__cena h1</value>
+      <webElementGuid>495ed722-dde9-49a5-b4d6-cb1166b668cb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>1 625</value>
+      <webElementGuid>761fa958-2fbb-4a60-80dc-5ab2b35b3297</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__layout&quot;)/div[1]/div[@class=&quot;default-layout__content&quot;]/main[@class=&quot;szukaj&quot;]/section[@class=&quot;section no-padding&quot;]/div[@class=&quot;wrap szukaj-wrap&quot;]/section[@class=&quot;content&quot;]/div[@class=&quot;content__bloczki&quot;]/div[@class=&quot;bloczek__container&quot;]/div[@class=&quot;bloczek__wrapper&quot;]/div[@class=&quot;bloczek__container-right&quot;]/div[@class=&quot;bloczek__content&quot;]/div[@class=&quot;content__right&quot;]/a[@class=&quot;content__right&quot;]/div[@class=&quot;bloczek__cena-wrapper&quot;]/span[@class=&quot;bloczek__cena h1&quot;]</value>
+      <webElementGuid>ec8311be-2f57-4bab-a619-92ab8240de14</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>148c2ada-6d94-4166-abc1-bc78ee25fac7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>bloczek__cena h1</value>
+      <webElementGuid>ea2055f7-ab23-4bfd-92a3-9d5f7451fed5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>1 625</value>
+      <webElementGuid>537f72d3-9cd8-43a7-bf40-97d073725c09</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__layout&quot;)/div[1]/div[@class=&quot;default-layout__content&quot;]/main[@class=&quot;szukaj&quot;]/section[@class=&quot;section no-padding&quot;]/div[@class=&quot;wrap szukaj-wrap&quot;]/section[@class=&quot;content&quot;]/div[@class=&quot;content__bloczki&quot;]/div[@class=&quot;bloczek__container&quot;]/div[@class=&quot;bloczek__wrapper&quot;]/div[@class=&quot;bloczek__container-right&quot;]/div[@class=&quot;bloczek__content&quot;]/div[@class=&quot;content__right&quot;]/a[@class=&quot;content__right&quot;]/div[@class=&quot;bloczek__cena-wrapper&quot;]/span[@class=&quot;bloczek__cena h1&quot;]</value>
+      <webElementGuid>9e3e18d4-43ae-413a-b777-c2f750f645c0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__layout']/div/div[2]/main/section/div/section/div/div/div/div[2]/div[3]/div[2]/a/div/span</value>
+      <webElementGuid>fb72dff9-e2eb-40bd-8e81-308b8cc73a91</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bez wyżywienia'])[2]/following::span[2]</value>
+      <webElementGuid>04bcf62c-b9dd-459f-a895-76e234bc35d8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Katowice'])[1]/following::span[3]</value>
+      <webElementGuid>3ec6bb74-0956-43f1-8ba1-ad1a0e14637d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='zł/os.'])[1]/preceding::span[1]</value>
+      <webElementGuid>0482d9a7-28b4-4743-8c5e-43638a10f2be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SZCZEGÓŁY'])[1]/preceding::span[2]</value>
+      <webElementGuid>fe4c3126-4597-4711-af97-6d0291e65db1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='1 625']/parent::*</value>
+      <webElementGuid>50ae6e27-a87f-4b04-8e9a-242544484bff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[2]/a/div/span</value>
+      <webElementGuid>9881fc09-82f6-4d60-8922-c84e8767dbf4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '1 625' or . = '1 625')]</value>
+      <webElementGuid>fa6b74b3-aac0-4091-9c2f-e2a43dcfb3e0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

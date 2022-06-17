@@ -22,6 +22,38 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
+      <webElementGuid>aada1ac4-c5de-4c73-88a6-8e77571ccba7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>rodo-alert__close</value>
+      <webElementGuid>fb711ed4-a5af-4e40-8cc5-d003785c63e5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>×</value>
+      <webElementGuid>3248a464-2829-4d92-8c62-1401f6a9b551</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__layout&quot;)/div[1]/div[@class=&quot;footer__background&quot;]/div[@class=&quot;rodo-alert&quot;]/div[@class=&quot;rodo-alert__close-wraper&quot;]/div[@class=&quot;rodo-alert__close&quot;]</value>
+      <webElementGuid>ebf72b75-e2ab-4932-8d1a-4dc4e3e64721</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
       <webElementGuid>5102c0a6-2d33-4ef4-a55b-88c052a8a9a9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
@@ -33,7 +65,7 @@
       <webElementGuid>9f510f4c-e27d-453a-bd54-2c7e8485215c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
@@ -118,7 +150,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='__layout']/div/div[4]/div[2]/div/div</value>
-      <webElementGuid>98d78263-c8ab-4cce-aa89-dd60b6b5ca88</webElementGuid>
+      <webElementGuid>d5deb22a-3a16-454d-a6ac-d9c9c5842e2a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,7 +158,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Więcej...'])[1]/following::div[2]</value>
-      <webElementGuid>9e4e20cf-bee1-4cfa-ae97-d00231b8925e</webElementGuid>
+      <webElementGuid>4810d00d-a461-4f99-bd6d-65c1a082a72d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -134,7 +166,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Wszelkie prawa zastrzeżone ©1991-2022 Biuro podróży Rainbow Tours S.A.'])[1]/following::div[3]</value>
-      <webElementGuid>a85e5c43-31cd-400d-9ecd-bd3bf561033b</webElementGuid>
+      <webElementGuid>3a4ec374-0b87-47c5-b547-1a5c869545b0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -142,7 +174,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='×']/parent::*</value>
-      <webElementGuid>33ff2407-8bba-4e09-a45a-e8e68e71f18f</webElementGuid>
+      <webElementGuid>12f62bde-7365-4c2a-aa4a-09ca8986b7c0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -150,7 +182,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[4]/div[2]/div/div</value>
-      <webElementGuid>f96f8d0a-0c29-439b-bbbf-190246c5ac88</webElementGuid>
+      <webElementGuid>9cc7e6de-5754-405f-a47f-b49fdd838ea3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -158,6 +190,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = '×' or . = '×')]</value>
-      <webElementGuid>1defd126-2b9b-4054-bd6a-5aebcff07102</webElementGuid>
+      <webElementGuid>36efbf72-7b92-4539-97ae-3369996c505f</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_od najniszej ceny</name>
+   <tag></tag>
+   <elementGuidId>7a68234e-c562-4911-a0d7-27cc57692b08</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__layout']/div/div[2]/main/section/div/section/header/div/div/span[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.text--bold</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>438c566a-0fa9-4d65-b805-dde0508192be</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text--bold</value>
+      <webElementGuid>00e353b6-eba3-48be-bf0f-b9427ffcc177</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>od najniższej ceny</value>
+      <webElementGuid>6040b6d2-5caa-4c44-9f00-0f983926be87</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__layout&quot;)/div[1]/div[@class=&quot;default-layout__content&quot;]/main[@class=&quot;szukaj&quot;]/section[@class=&quot;section no-padding&quot;]/div[@class=&quot;wrap szukaj-wrap&quot;]/section[@class=&quot;content&quot;]/header[@class=&quot;content__header&quot;]/div[@class=&quot;vue-select content__sort&quot;]/div[@class=&quot;vue-select__input&quot;]/span[@class=&quot;text--bold&quot;]</value>
+      <webElementGuid>a4afc7ee-7e66-4b52-8f88-7ed6cf368800</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__layout']/div/div[2]/main/section/div/section/header/div/div/span[2]</value>
+      <webElementGuid>69d61c41-5e5d-44ec-a340-5111c91fed0d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sortuj:'])[1]/following::span[1]</value>
+      <webElementGuid>fb0532ae-9db5-4dc2-9725-beea1fa3f52b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Grecja wakacje'])[1]/following::span[2]</value>
+      <webElementGuid>371e08c7-803e-402e-b8d0-3f02e87f6062</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Wypoczynek • Grecja: Lesbos'])[1]/preceding::span[2]</value>
+      <webElementGuid>a79398ed-c6cb-4e67-b935-a142bd041fbd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='inne terminy'])[1]/preceding::span[4]</value>
+      <webElementGuid>0d80d153-1a1e-4adc-bd04-0190f826b296</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='od najniższej ceny']/parent::*</value>
+      <webElementGuid>56f83f8c-0f49-418b-b8a0-0647f5dceefa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//header/div/div/span[2]</value>
+      <webElementGuid>441908de-dab7-48cd-a78e-48083c1b2466</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'od najniższej ceny' or . = 'od najniższej ceny')]</value>
+      <webElementGuid>d19f10a3-ec19-45e2-b9a5-2c941f61149b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

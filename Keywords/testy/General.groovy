@@ -16,6 +16,7 @@ import com.kms.katalon.core.testdata.TestData
 import com.kms.katalon.core.testobject.TestObject
 import com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords as WS
 import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
+import com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword
 import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import org.openqa.selenium.WebDriver
 import java.util.regex.Matcher;
@@ -60,17 +61,31 @@ public class General {
 	def stringContains(str, match) {
 		return str.contains(match)
 	}
-	
+
 	@Keyword
 	def filtrDates(dates) {
 		List formatedDates = [];
 		for (String date : dates) {
 			String newDate = date.split(' ')[0]
-//			String newDate = Pattern.compile('"\\s\\(\\d\\sdni\\)"gi').matcher(date).replaceAll('')
-//			String newDate = date.replaceAll('"\\s\\(\\d\\sdni\\)"gi', '')
+			//			String newDate = Pattern.compile('"\\s\\(\\d\\sdni\\)"gi').matcher(date).replaceAll('')
+			//			String newDate = date.replaceAll('"\\s\\(\\d\\sdni\\)"gi', '')
 			println(newDate)
 			formatedDates.push(newDate)
 		}
 		return formatedDates
+	}
+	
+	@Keyword
+	def transformPriceToInt(object, compTo, GreaterOrLess) {
+		String priceStr = WebUI.getText(object)
+		priceStr = priceStr.replace(' ', '')
+		Integer priceInt = Integer.parseInt(priceStr)
+		
+		if(GreaterOrLess == "greater") {
+			return priceInt > compTo ? true : false
+		}
+		if(GreaterOrLess == 'less') {
+			return priceInt < compTo ? true : false
+		}
 	}
 }

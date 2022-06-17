@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_od najwyszej ceny</name>
+   <tag></tag>
+   <elementGuidId>0e32481f-96e9-45bd-ab23-669427d4c752</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__layout']/div/div[2]/main/section/div/section/header/div/ul/li[4]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>875a3f5e-4682-417e-ab21-68a2d44c12e0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>vue-select__option vue-select__option-disabled</value>
+      <webElementGuid>544a6d6c-7ee2-4e47-b047-53f906347949</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>od najwyższej ceny </value>
+      <webElementGuid>0e163bc9-8a1d-48f2-9077-b0725ec1d2d8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__layout&quot;)/div[1]/div[@class=&quot;default-layout__content&quot;]/main[@class=&quot;szukaj&quot;]/section[@class=&quot;section no-padding&quot;]/div[@class=&quot;wrap szukaj-wrap&quot;]/section[@class=&quot;content&quot;]/header[@class=&quot;content__header&quot;]/div[@class=&quot;vue-select content__sort open&quot;]/ul[@class=&quot;vue-select__select&quot;]/li[@class=&quot;vue-select__option vue-select__option-disabled&quot;]</value>
+      <webElementGuid>cb0193e2-02c8-4c5f-9621-65ca8bc2a81c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>24149a4c-ae06-496b-897f-81f78d71eab1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>vue-select__option vue-select__option-disabled</value>
+      <webElementGuid>7745b12b-a9fc-4192-a9f4-14d53121c7ae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>od najwyższej ceny </value>
+      <webElementGuid>0415f755-46f6-4b9d-b9b4-96e26d20ac87</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__layout&quot;)/div[1]/div[@class=&quot;default-layout__content&quot;]/main[@class=&quot;szukaj&quot;]/section[@class=&quot;section no-padding&quot;]/div[@class=&quot;wrap szukaj-wrap&quot;]/section[@class=&quot;content&quot;]/header[@class=&quot;content__header&quot;]/div[@class=&quot;vue-select content__sort open&quot;]/ul[@class=&quot;vue-select__select&quot;]/li[@class=&quot;vue-select__option vue-select__option-disabled&quot;]</value>
+      <webElementGuid>750c3c5c-552a-4347-b673-fd931ce5673d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>c484f4f0-4390-458c-8e84-ba66e74c3860</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>vue-select__option vue-select__option-disabled</value>
+      <webElementGuid>f8ac8a60-27bb-427f-92c9-d31d86119089</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>od najwyższej ceny </value>
+      <webElementGuid>d7ba8236-3c9b-4771-8ec4-24e4f8c4768d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__layout&quot;)/div[1]/div[@class=&quot;default-layout__content&quot;]/main[@class=&quot;szukaj&quot;]/section[@class=&quot;section no-padding&quot;]/div[@class=&quot;wrap szukaj-wrap&quot;]/section[@class=&quot;content&quot;]/header[@class=&quot;content__header&quot;]/div[@class=&quot;vue-select content__sort open&quot;]/ul[@class=&quot;vue-select__select&quot;]/li[@class=&quot;vue-select__option vue-select__option-disabled&quot;]</value>
+      <webElementGuid>ad50a104-709c-4827-ba04-417b76f5dae6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__layout']/div/div[2]/main/section/div/section/header/div/ul/li[4]</value>
+      <webElementGuid>8e9812fd-0dfc-49b4-b594-8c90caa8afbc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='od najniższej ceny'])[2]/following::li[1]</value>
+      <webElementGuid>6e4e99a2-34ea-4c75-a612-e84fc3431762</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='od najbliższego terminu'])[1]/following::li[2]</value>
+      <webElementGuid>dc0549d3-f9c6-4eff-a4a8-48e4b60284ea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='od najlepszej oceny klientów'])[1]/preceding::li[1]</value>
+      <webElementGuid>193bdfd6-af12-4fac-bab3-5649549d7784</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[4]</value>
+      <webElementGuid>bf0af6d9-9eaf-4d5c-94a4-6155e20acb23</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'od najwyższej ceny ' or . = 'od najwyższej ceny ')]</value>
+      <webElementGuid>19451d05-9efd-4309-860d-ba0673e28a07</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
