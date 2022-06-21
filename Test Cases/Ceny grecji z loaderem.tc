@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Ceny grecji z loaderem</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9501a024-6ca1-42a0-8907-622b8b55a396</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>dff5685b-9a6b-4526-a586-fc6a14ffa14a</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>f82c9328-6bd4-4b36-993d-35ad9a6e90f7</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>8119229d-2f79-4751-bfeb-1cd65c5482dd</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'https://r.pl/grecja?datyUrodzenia%5B%5D=1992-01-01&amp;datyUrodzenia%5B%5D=1992-01-01&amp;liczbaPokoi=1&amp;sortowanie=cena-asc&amp;widok=bloczki&amp;cena%5B%5D=avg&amp;dlugoscPobytu%5B%5D=%2a-%2a&amp;typTransportu%5B%5D=AIR&amp;typTransportu%5B%5D=dreamliner&amp;lokalizacje_HoteloProdukt%5B%5D=grecja&amp;promocja%5B%5D=topniejace-rabaty'</defaultValue>
+      <description></description>
+      <id>dff5685b-9a6b-4526-a586-fc6a14ffa14a</id>
+      <masked>false</masked>
+      <name>testUrl</name>
+   </variable>
+   <variable>
+      <defaultValue>'2500'</defaultValue>
+      <description></description>
+      <id>f82c9328-6bd4-4b36-993d-35ad9a6e90f7</id>
+      <masked>false</masked>
+      <name>minPrice</name>
+   </variable>
+   <variable>
+      <defaultValue>'7000'</defaultValue>
+      <description></description>
+      <id>8119229d-2f79-4751-bfeb-1cd65c5482dd</id>
+      <masked>false</masked>
+      <name>maxPrice</name>
+   </variable>
+</TestCaseEntity>
