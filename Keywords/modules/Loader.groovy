@@ -20,7 +20,17 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 
 import internal.GlobalVariable
 
+import org.openqa.selenium.By;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.chrome.ChromeDriver;
+import java.util.concurrent.TimeUnit;
+import java.util.HashMap;
+
+import com.kms.katalon.core.webui.driver.DriverFactory as DF
+
 public class Loader {
+	def driver = DF.getWebDriver();
 	@Keyword
 	def openUrlshowMoreOffersScrollLoop(url, timeout) {
 		WebUI.openBrowser('')
@@ -68,7 +78,7 @@ public class Loader {
 		WebUI.scrollToElement(findTestObject('Więcej ofert/Wiecej scroll'), 1)
 
 		while (WebUI.waitForElementPresent(findTestObject('Object Repository/Więcej ofert/Page_Wakacje i wczasy w Kenii 2022 z Rainbow  R.pl/Dodatkowy anchor dla tekstu'),
-				3)) {
+		3)) {
 			WebUI.delay(timeout)
 
 			WebUI.scrollToElement(findTestObject('Więcej ofert/Wiecej scroll'), 1)
@@ -76,9 +86,46 @@ public class Loader {
 			WebUI.delay(timeout)
 
 			if (WebUI.waitForElementPresent(findTestObject('Object Repository/Więcej ofert/Page_Wakacje i wczasy w Kenii 2022 z Rainbow  R.pl/Dodatkowy anchor dla tekstu'),
-					3) != true) {
+			3) != true) {
 				break
 			}
 		}
+	}
+
+	@Keyword
+	def showMoreOffersScrollLoopFailSafe(timeout, Integer hotelAmount) {
+
+		WebUI.click(findTestObject('Object Repository/Page_Wakacje i wczasy w Grecji 2022 z Rainb_e432b7/div_object Object'))
+
+		WebUI.delay(timeout)
+
+		WebUI.scrollToElement(findTestObject('Więcej ofert/Wiecej scroll'), 1)
+
+		while (WebUI.waitForElementPresent(findTestObject('Object Repository/Więcej ofert/Page_Wakacje i wczasy w Kenii 2022 z Rainbow  R.pl/Dodatkowy anchor dla tekstu'),
+		3)) {
+			WebUI.delay(timeout)
+
+			WebUI.scrollToElement(findTestObject('Więcej ofert/Wiecej scroll'), 1)
+
+			Integer blocksCount = driver.findElements(By.xpath("//div[@class='bloczek__container']")).size()
+
+			println(blocksCount)
+
+//			WebUI.delay(timeout)
+
+			if (WebUI.waitForElementPresent(findTestObject('Object Repository/Więcej ofert/Page_Wakacje i wczasy w Kenii 2022 z Rainbow  R.pl/Dodatkowy anchor dla tekstu'),
+			3) != true) {
+				break
+			} else if (blocksCount >= hotelAmount) {
+				break
+			}
+		}
+	}
+
+	@Keyword
+	def getTotalHotelAmount(TestObject testObject) {
+		String hotelAmountString = WebUI.getText(testObject).replaceAll("\\D", "");
+		println(hotelAmountString)
+		return Integer.parseInt(hotelAmountString)
 	}
 }

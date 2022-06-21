@@ -24,6 +24,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 import java.util.concurrent.TimeUnit;
+import java.util.HashMap;
 
 import com.kms.katalon.core.webui.driver.DriverFactory as DF
 
@@ -33,7 +34,7 @@ public class Prices {
 	def driver = DF.getWebDriver();
 
 
-	@Keyword 
+	@Keyword
 	def checkAllPricesInRange(min, max) {
 		WebUI.delay(3)
 		List<WebElement> pricesArr = driver.findElements(By.xpath("//span[@class='bloczek__cena h1']"));
@@ -49,6 +50,29 @@ public class Prices {
 			}
 		}
 		println(Arrays.toString(pricesList))
+		return
+	}
+
+	@Keyword
+	def checkDiscountPriceValidity() {
+		WebUI.delay(3)
+		List<WebElement> prices = driver.findElements(By.xpath("//span[@class='bloczek__cena h1']"));
+		List<WebElement> beforeDiscountPrice = driver.findElements(By.xpath("//span[@class='bloczek__cena-kreslona']"));
+		HashMap<String, String> pricesList = new HashMap<String, String>();
+		Integer pricesCount = prices.size();
+		println("Ilość sprawdzanych cen: " + pricesCount)
+		for(int i; i < prices.size(); i++) {
+			int priceAmount = Integer.parseInt(prices[i].getText().replaceAll("\\s", ""))
+			int beforeDiscountAmount = Integer.parseInt(beforeDiscountPrice[i].getText().replaceAll("\\s", "").replace("zł", ""))
+			if(Integer.compare(priceAmount, beforeDiscountAmount) > 0) {
+				println("ERROR:: Price is: " + priceAmount + ". And before discount was: " + beforeDiscountAmount)
+				KeywordUtil.markErrorAndStop('Cena po obniżce jest wyższa, niż przed')
+			} else {
+				pricesList.put('Discounted price ' + i.toString(), priceAmount)
+				pricesList.put("Before discount price " + i.toString(), beforeDiscountAmount)
+			}
+		}
+		println(pricesList)
 		return
 	}
 }

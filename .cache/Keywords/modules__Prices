@@ -1,5 +1,5 @@
 {
-  "keywordFileContentHash": "3F002461ACE1E07621EED8349352DE64",
+  "keywordFileContentHash": "B3459075DE4C17ADD676D11C0A949C7E",
   "keywordClasses": [
     {
       "name": "modules.Prices",
@@ -33,11 +33,14 @@
                 "errorOnParsing": false
               }
             }
-          ],
-          "javadoc": ""
+          ]
+        },
+        {
+          "name": "checkDiscountPriceValidity",
+          "parameters": []
         }
       ]
     }
   ],
-  "javadocParsed": true
+  "javadocParsed": false
 }

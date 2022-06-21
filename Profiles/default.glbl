@@ -11,7 +11,7 @@
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>2</initValue>
+      <initValue>1</initValue>
       <name>defalutTimout</name>
    </GlobalVariableEntity>
 </GlobalVariableEntities>
