@@ -74,13 +74,13 @@ public class General {
 		}
 		return formatedDates
 	}
-	
+
 	@Keyword
 	def transformPriceToInt(object, compTo, GreaterOrLess) {
 		String priceStr = WebUI.getText(object)
 		priceStr = priceStr.replace(' ', '')
 		Integer priceInt = Integer.parseInt(priceStr)
-		
+
 		if(GreaterOrLess == "greater") {
 			return priceInt > compTo ? true : false
 		}

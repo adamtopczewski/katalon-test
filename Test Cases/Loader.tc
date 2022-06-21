@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Loader</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1c043d26-59d1-4b83-936e-0048a505f254</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>a265d8f2-dba5-4a87-8d40-464db34b7bf0</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'https://r.pl/grecja?datyUrodzenia%5B%5D=1992-01-01&amp;datyUrodzenia%5B%5D=1992-01-01&amp;liczbaPokoi=1&amp;sortowanie=cena-asc&amp;widok=bloczki&amp;cena%5B%5D=avg&amp;dlugoscPobytu%5B%5D=%2a-%2a&amp;typTransportu%5B%5D=AIR&amp;typTransportu%5B%5D=dreamliner&amp;lokalizacje_HoteloProdukt%5B%5D=grecja&amp;promocja%5B%5D=topniejace-rabaty'</defaultValue>
+      <description></description>
+      <id>a265d8f2-dba5-4a87-8d40-464db34b7bf0</id>
+      <masked>false</masked>
+      <name>testUrl</name>
+   </variable>
+</TestCaseEntity>

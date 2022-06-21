@@ -22,6 +22,1421 @@
       <name>tag</name>
       <type>Main</type>
       <value>section</value>
+      <webElementGuid>853b7219-d954-43a1-a714-09683adfe8b6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>section no-padding</value>
+      <webElementGuid>45da081f-41c2-409f-a21c-6cf099518dee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Rainbow  / Grecja Widok mapy  [object Object]
+
+
+ 
+            Filtry
+            [object Object]
+    
+ Wyczyść filtry  
+        Wyżywienie
+         [object Object]
+
+
+    [object Object]
+
+
+ 
+        All inclusive
+          [object Object]
+
+
+ 
+        3 posiłki
+          [object Object]
+
+
+ 
+        2 posiłki
+          [object Object]
+
+
+ 
+        Śniadania
+          [object Object]
+
+
+ 
+        Bez wyżywienia
+          
+        Ilość dni
+         [object Object]
+
+
+     
+    Do 6 dni
+     
+    7 - 9 dni
+     
+    10 - 13 dni
+     
+    14 - 17 dni
+     
+    Dowolna ilość dni
+      
+    -
+      
+        Typ wyjazdu
+         [object Object]
+
+
+    [object Object]
+
+
+ 
+        Wypoczynek
+          [object Object]
+
+
+ 
+        Objazd
+          [object Object]
+
+
+ 
+        Objazd + wypoczynek
+          
+        Cena
+         [object Object]
+
+
+   
+    -
+         
+    Cena za osobę
+     
+    Za wszystkie osoby
+     
+        Standard hotelu
+         [object Object]
+
+
+    [object Object]
+
+
+     [object Object]
+
+
+     [object Object]
+
+
+     [object Object]
+
+
+     
+        Ocena klientów
+         [object Object]
+
+
+     
+    Dowolna
+     
+    Od 5.0
+     
+    Od 4.0
+     
+    Od 3.0
+     
+        Sezon
+         [object Object]
+
+
+    [object Object]
+
+
+ 
+        Lato 2022
+          [object Object]
+
+
+ 
+        Zima 22/23
+          
+        Udogodnienia
+         [object Object]
+
+
+    [object Object]
+
+
+ 
+        Wi-Fi
+          [object Object]
+
+
+ 
+        Aquapark/zjeżdżalnie
+          [object Object]
+
+
+ 
+        Figloklub polscy animatorzy
+          [object Object]
+
+
+ 
+        Międzynarodowe animacje
+          [object Object]
+
+
+ 
+        SPA
+          [object Object]
+
+
+ 
+        Siłownia
+          [object Object]
+
+
+ 
+        Kort tenisowy
+          [object Object]
+
+
+ 
+        Darmowe leżaki
+          [object Object]
+
+
+ 
+        Plaża do 100 m
+          [object Object]
+
+
+ 
+        W/blisko centrum
+          
+        Dokumenty
+         [object Object]
+
+
+    [object Object]
+
+
+ 
+        Bez paszportu
+          [object Object]
+
+
+ 
+        Bez wizy
+          
+        Rodzaj hotelu
+         [object Object]
+
+
+    [object Object]
+
+
+ 
+        Nowość
+          [object Object]
+
+
+ 
+        Hotel Premium 
+          [object Object]
+
+
+ 
+        Rodzinny
+          [object Object]
+
+
+ 
+        Dla dorosłych
+          [object Object]
+
+
+ 
+        Sieć White Olive
+          [object Object]
+
+
+ 
+        Hotel Elite
+          
+        Pokoje
+         [object Object]
+
+
+    [object Object]
+
+
+ 
+        Z osobną sypialnią
+          [object Object]
+
+
+ 
+        Apartament z osobną sypialnią
+          [object Object]
+
+
+ 
+        Z widokiem na morze
+          [object Object]
+
+
+ 
+        Pokój Rodzinny
+          [object Object]
+
+
+ 
+        Studio
+          
+        Tematyka
+         [object Object]
+
+
+    [object Object]
+
+
+ 
+        City Break
+          [object Object]
+
+
+ 
+        Egzotyka
+          [object Object]
+
+
+ 
+        Egzotyka light
+          [object Object]
+
+
+ 
+        Europa i Orient
+          [object Object]
+
+
+ 
+        Kuchnia i wino
+          [object Object]
+
+
+ 
+        Parki rozrywki
+          [object Object]
+
+
+ 
+        Poza utartym szlakiem
+          [object Object]
+
+
+ 
+        Rejs statkiem
+          [object Object]
+
+
+ 
+        Smak przygody
+          [object Object]
+
+
+ 
+        Spokojne Wakacje 50+
+          [object Object]
+
+
+ 
+        Sylwester
+          [object Object]
+
+
+ 
+        Zainteresowania i hobby
+          [object Object]
+
+
+ 
+        Wycieczki objazdowe premium
+          
+        Promocje
+       (1)  [object Object]
+
+
+    [object Object]
+
+
+ 
+        Egzotyka 22/23 - Second Minute
+          [object Object]
+
+
+ 
+        Przedsmak Lata
+          [object Object]
+
+
+ 
+        Topniejące Rabaty!
+          [object Object]
+
+
+ 
+        Egzotyka 22/23 - przedsprzedaż
+          [object Object]
+
+
+ 
+        Last minute
+          [object Object]
+
+
+ 
+        Single nie płacą
+          [object Object]
+
+
+ 
+        Super Środa
+           
+          Grecja wakacje
+         
+            Znaleziono  83 oferty
+           Sortuj: od najniższej ceny  [object Object]
+
+
+       [object Object]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  [object Object]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  4.7/6  20 ocen  [object Object]
+
+
+ Armonia Studios       [object Object]
+
+
+ Wypoczynek • Grecja: Lesbos     [object Object]
+
+
+ 
+      29.06.2022 (8 dni)
+     inne terminy    [object Object]
+
+
+ Katowice   [object Object]
+
+
+ Bez wyżywienia   1 752 zł 1 702  [object Object]
+  
+    
+      
+    
+  
+  
+    
+    
+    
+      
+      
+    
+  
+
+   zł/os. 
+  SZCZEGÓŁY
+     [object Object]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  [object Object]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  5.5/6  11 ocen  [object Object]
+
+
+ Elena Studios       [object Object]
+
+
+ Wypoczynek • Grecja: Lesbos     [object Object]
+
+
+ 
+      29.06.2022 (8 dni)
+     inne terminy    [object Object]
+
+
+ Katowice   [object Object]
+
+
+ Bez wyżywienia  [object Object]
+  
+    
+      
+    
+  
+  
+    
+    
+    
+      
+      
+    
+  
+
+    1 804 zł 1 754  [object Object]
+  
+    
+      
+    
+  
+  
+    
+    
+    
+      
+      
+    
+  
+
+   zł/os. 
+  SZCZEGÓŁY
+   [object Object]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  [object Object]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  5.0/6  12 ocen  [object Object]
+
+
+ Nikos Studios       [object Object]
+
+
+ Wypoczynek • Grecja: Lesbos     [object Object]
+
+
+ 
+      06.07.2022 (8 dni)
+     inne terminy    [object Object]
+
+
+ Katowice   [object Object]
+
+
+ Bez wyżywienia  [object Object]
+  
+    
+      
+    
+  
+  
+    
+    
+    
+      
+      
+    
+  
+
+    1 873 zł 1 823  [object Object]
+  
+    
+      
+    
+  
+  
+    
+    
+    
+      
+      
+    
+  
+
+   zł/os. 
+  SZCZEGÓŁY
+   [object Object]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  [object Object]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  5.8/6  28 ocen  [object Object]
+
+
+ Dias Apartments       [object Object]
+
+
+ Wypoczynek • Grecja: Riwiera Olimpijska     [object Object]
+
+
+ 
+      02.07.2022 (8 dni)
+     inne terminy    [object Object]
+
+
+ Katowice  [object Object]
+  
+    
+      
+    
+  
+  
+    
+    
+    
+      
+      
+    
+  
+
+    [object Object]
+
+
+ Bez wyżywienia  [object Object]
+  
+    
+      
+    
+  
+  
+    
+    
+    
+      
+      
+    
+  
+
+    1 933 zł 1 883  [object Object]
+  
+    
+      
+    
+  
+  
+    
+    
+    
+      
+      
+    
+  
+
+   zł/os. 
+  SZCZEGÓŁY
+   [object Object]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  [object Object]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    [object Object]
+
+
+ Grand Blue Villa Michaela       [object Object]
+
+
+ Wypoczynek • Grecja: Lesbos     [object Object]
+
+
+ 
+      06.07.2022 (8 dni)
+     inne terminy    [object Object]
+
+
+ Katowice   [object Object]
+
+
+ Bez wyżywienia  [object Object]
+  
+    
+      
+    
+  
+  
+    
+    
+    
+      
+      
+    
+  
+
+    1 951 zł 1 901  [object Object]
+  
+    
+      
+    
+  
+  
+    
+    
+    
+      
+      
+    
+  
+
+   zł/os. 
+  SZCZEGÓŁY
+   [object Object]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  [object Object]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  4.9/6  25 ocen  [object Object]
+
+
+ Chrysoula Studios       [object Object]
+
+
+ Wypoczynek • Grecja: Lesbos     [object Object]
+
+
+ 
+      29.06.2022 (8 dni)
+     inne terminy    [object Object]
+
+
+ Katowice   [object Object]
+
+
+ All inclusive  [object Object]
+  
+    
+      
+    
+  
+  
+    
+    
+    
+      
+      
+    
+  
+
+    1 955 zł 1 905  [object Object]
+  
+    
+      
+    
+  
+  
+    
+    
+    
+      
+      
+    
+  
+
+   zł/os. 
+  SZCZEGÓŁY
+   [object Object]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  [object Object]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  5.7/6  15 ocen  [object Object]
+
+
+ Lakis Studios       [object Object]
+
+
+ Wypoczynek • Grecja: Lesbos     [object Object]
+
+
+ 
+      29.06.2022 (8 dni)
+     inne terminy    [object Object]
+
+
+ Katowice   [object Object]
+
+
+ Bez wyżywienia  [object Object]
+  
+    
+      
+    
+  
+  
+    
+    
+    
+      
+      
+    
+  
+
+    1 956 zł 1 906  [object Object]
+  
+    
+      
+    
+  
+  
+    
+    
+    
+      
+      
+    
+  
+
+   zł/os. 
+  SZCZEGÓŁY
+   [object Object]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  [object Object]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  4.5/6  150 ocen  [object Object]
+
+
+ Paras Sun       [object Object]
+
+
+ Wypoczynek • Grecja: Rodos     [object Object]
+
+
+ 
+      27.06.2022 (8 dni)
+     inne terminy    [object Object]
+
+
+ Katowice  [object Object]
+  
+    
+      
+    
+  
+  
+    
+    
+    
+      
+      
+    
+  
+
+    [object Object]
+
+
+ Śniadania  [object Object]
+  
+    
+      
+    
+  
+  
+    
+    
+    
+      
+      
+    
+  
+
+    2 069 zł 2 019  [object Object]
+  
+    
+      
+    
+  
+  
+    
+    
+    
+      
+      
+    
+  
+
+   zł/os. 
+  SZCZEGÓŁY
+   [object Object]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  [object Object]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  5.1/6  43 oceny  [object Object]
+
+
+ Mari Evans Apartments       [object Object]
+
+
+ Wypoczynek • Grecja: Kreta - Heraklion     [object Object]
+
+
+ 
+      06.07.2022 (8 dni)
+     inne terminy    [object Object]
+
+
+ Łódź  [object Object]
+  
+    
+      
+    
+  
+  
+    
+    
+    
+      
+      
+    
+  
+
+    [object Object]
+
+
+ Bez wyżywienia   2 067 zł 2 037  [object Object]
+  
+    
+      
+    
+  
+  
+    
+    
+    
+      
+      
+    
+  
+
+   zł/os. 
+  SZCZEGÓŁY
+   [object Object]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  [object Object]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  5.5/6  13 ocen  [object Object]
+
+
+ Rafael Studios       [object Object]
+
+
+ Wypoczynek • Grecja: Lesbos     [object Object]
+
+
+ 
+      29.06.2022 (8 dni)
+     inne terminy    [object Object]
+
+
+ Katowice   [object Object]
+
+
+ Bez wyżywienia  [object Object]
+  
+    
+      
+    
+  
+  
+    
+    
+    
+      
+      
+    
+  
+
+    2 095 zł 2 045  [object Object]
+  
+    
+      
+    
+  
+  
+    
+    
+    
+      
+      
+    
+  
+
+   zł/os. 
+  SZCZEGÓŁY
+  [object Object]
+
+
+
+ Pokaż więcej ofert     [object Object]
+
+
+ Sortuj  [object Object]
+
+
+ Filtruj 1 [object Object]
+
+
+ Lista  [object Object]
+
+
+ Mapa </value>
+      <webElementGuid>4cffa22f-4a2d-4da1-9d13-a404c51e41ef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__layout&quot;)/div[1]/div[@class=&quot;default-layout__content&quot;]/main[@class=&quot;szukaj&quot;]/section[@class=&quot;section no-padding&quot;]</value>
+      <webElementGuid>e9098148-006e-486b-b748-a9631e8e3163</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>section</value>
       <webElementGuid>5721eaa2-f696-4780-b96c-3880639b4814</webElementGuid>
    </webElementProperties>
    <webElementProperties>
@@ -33,7 +1448,7 @@
       <webElementGuid>5ce8cc60-ef04-4349-9f1f-17ff9694310e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
@@ -1419,7 +2834,7 @@ od najwyższej ceny od najlepszej oceny klientów       [object Object]
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='__layout']/div/div[2]/main/section</value>
-      <webElementGuid>34d1962d-8854-4008-858d-86395423cbf5</webElementGuid>
+      <webElementGuid>dea7fa14-b801-41ff-a303-eb558a9c4450</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -1427,7 +2842,7 @@ od najwyższej ceny od najlepszej oceny klientów       [object Object]
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='szukaj'])[1]/following::section[1]</value>
-      <webElementGuid>8a126483-ab15-4198-90e6-d0bfe45a0663</webElementGuid>
+      <webElementGuid>93a592c5-eb18-4801-955a-8d5f1e83be3f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -1435,7 +2850,7 @@ od najwyższej ceny od najlepszej oceny klientów       [object Object]
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Samolot'])[1]/following::section[1]</value>
-      <webElementGuid>099a8a58-095d-4e3e-adec-eede2623d243</webElementGuid>
+      <webElementGuid>f320b1d5-67ca-4a65-acba-07e8e168ec47</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -1443,7 +2858,2781 @@ od najwyższej ceny od najlepszej oceny klientów       [object Object]
       <name>xpath:position</name>
       <type>Main</type>
       <value>//section</value>
-      <webElementGuid>8706f1ea-84b6-4c6a-b867-a163584a87a7</webElementGuid>
+      <webElementGuid>0da93b98-ec65-440d-8713-c11fb0549e68</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//section[(text() = 'Rainbow  / Grecja Widok mapy  [object Object]
+
+
+ 
+            Filtry
+            [object Object]
+    
+ Wyczyść filtry  
+        Wyżywienie
+         [object Object]
+
+
+    [object Object]
+
+
+ 
+        All inclusive
+          [object Object]
+
+
+ 
+        3 posiłki
+          [object Object]
+
+
+ 
+        2 posiłki
+          [object Object]
+
+
+ 
+        Śniadania
+          [object Object]
+
+
+ 
+        Bez wyżywienia
+          
+        Ilość dni
+         [object Object]
+
+
+     
+    Do 6 dni
+     
+    7 - 9 dni
+     
+    10 - 13 dni
+     
+    14 - 17 dni
+     
+    Dowolna ilość dni
+      
+    -
+      
+        Typ wyjazdu
+         [object Object]
+
+
+    [object Object]
+
+
+ 
+        Wypoczynek
+          [object Object]
+
+
+ 
+        Objazd
+          [object Object]
+
+
+ 
+        Objazd + wypoczynek
+          
+        Cena
+         [object Object]
+
+
+   
+    -
+         
+    Cena za osobę
+     
+    Za wszystkie osoby
+     
+        Standard hotelu
+         [object Object]
+
+
+    [object Object]
+
+
+     [object Object]
+
+
+     [object Object]
+
+
+     [object Object]
+
+
+     
+        Ocena klientów
+         [object Object]
+
+
+     
+    Dowolna
+     
+    Od 5.0
+     
+    Od 4.0
+     
+    Od 3.0
+     
+        Sezon
+         [object Object]
+
+
+    [object Object]
+
+
+ 
+        Lato 2022
+          [object Object]
+
+
+ 
+        Zima 22/23
+          
+        Udogodnienia
+         [object Object]
+
+
+    [object Object]
+
+
+ 
+        Wi-Fi
+          [object Object]
+
+
+ 
+        Aquapark/zjeżdżalnie
+          [object Object]
+
+
+ 
+        Figloklub polscy animatorzy
+          [object Object]
+
+
+ 
+        Międzynarodowe animacje
+          [object Object]
+
+
+ 
+        SPA
+          [object Object]
+
+
+ 
+        Siłownia
+          [object Object]
+
+
+ 
+        Kort tenisowy
+          [object Object]
+
+
+ 
+        Darmowe leżaki
+          [object Object]
+
+
+ 
+        Plaża do 100 m
+          [object Object]
+
+
+ 
+        W/blisko centrum
+          
+        Dokumenty
+         [object Object]
+
+
+    [object Object]
+
+
+ 
+        Bez paszportu
+          [object Object]
+
+
+ 
+        Bez wizy
+          
+        Rodzaj hotelu
+         [object Object]
+
+
+    [object Object]
+
+
+ 
+        Nowość
+          [object Object]
+
+
+ 
+        Hotel Premium 
+          [object Object]
+
+
+ 
+        Rodzinny
+          [object Object]
+
+
+ 
+        Dla dorosłych
+          [object Object]
+
+
+ 
+        Sieć White Olive
+          [object Object]
+
+
+ 
+        Hotel Elite
+          
+        Pokoje
+         [object Object]
+
+
+    [object Object]
+
+
+ 
+        Z osobną sypialnią
+          [object Object]
+
+
+ 
+        Apartament z osobną sypialnią
+          [object Object]
+
+
+ 
+        Z widokiem na morze
+          [object Object]
+
+
+ 
+        Pokój Rodzinny
+          [object Object]
+
+
+ 
+        Studio
+          
+        Tematyka
+         [object Object]
+
+
+    [object Object]
+
+
+ 
+        City Break
+          [object Object]
+
+
+ 
+        Egzotyka
+          [object Object]
+
+
+ 
+        Egzotyka light
+          [object Object]
+
+
+ 
+        Europa i Orient
+          [object Object]
+
+
+ 
+        Kuchnia i wino
+          [object Object]
+
+
+ 
+        Parki rozrywki
+          [object Object]
+
+
+ 
+        Poza utartym szlakiem
+          [object Object]
+
+
+ 
+        Rejs statkiem
+          [object Object]
+
+
+ 
+        Smak przygody
+          [object Object]
+
+
+ 
+        Spokojne Wakacje 50+
+          [object Object]
+
+
+ 
+        Sylwester
+          [object Object]
+
+
+ 
+        Zainteresowania i hobby
+          [object Object]
+
+
+ 
+        Wycieczki objazdowe premium
+          
+        Promocje
+       (1)  [object Object]
+
+
+    [object Object]
+
+
+ 
+        Egzotyka 22/23 - Second Minute
+          [object Object]
+
+
+ 
+        Przedsmak Lata
+          [object Object]
+
+
+ 
+        Topniejące Rabaty!
+          [object Object]
+
+
+ 
+        Egzotyka 22/23 - przedsprzedaż
+          [object Object]
+
+
+ 
+        Last minute
+          [object Object]
+
+
+ 
+        Single nie płacą
+          [object Object]
+
+
+ 
+        Super Środa
+           
+          Grecja wakacje
+         
+            Znaleziono  83 oferty
+           Sortuj: od najniższej ceny  [object Object]
+
+
+       [object Object]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  [object Object]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  4.7/6  20 ocen  [object Object]
+
+
+ Armonia Studios       [object Object]
+
+
+ Wypoczynek • Grecja: Lesbos     [object Object]
+
+
+ 
+      29.06.2022 (8 dni)
+     inne terminy    [object Object]
+
+
+ Katowice   [object Object]
+
+
+ Bez wyżywienia   1 752 zł 1 702  [object Object]
+  
+    
+      
+    
+  
+  
+    
+    
+    
+      
+      
+    
+  
+
+   zł/os. 
+  SZCZEGÓŁY
+     [object Object]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  [object Object]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  5.5/6  11 ocen  [object Object]
+
+
+ Elena Studios       [object Object]
+
+
+ Wypoczynek • Grecja: Lesbos     [object Object]
+
+
+ 
+      29.06.2022 (8 dni)
+     inne terminy    [object Object]
+
+
+ Katowice   [object Object]
+
+
+ Bez wyżywienia  [object Object]
+  
+    
+      
+    
+  
+  
+    
+    
+    
+      
+      
+    
+  
+
+    1 804 zł 1 754  [object Object]
+  
+    
+      
+    
+  
+  
+    
+    
+    
+      
+      
+    
+  
+
+   zł/os. 
+  SZCZEGÓŁY
+   [object Object]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  [object Object]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  5.0/6  12 ocen  [object Object]
+
+
+ Nikos Studios       [object Object]
+
+
+ Wypoczynek • Grecja: Lesbos     [object Object]
+
+
+ 
+      06.07.2022 (8 dni)
+     inne terminy    [object Object]
+
+
+ Katowice   [object Object]
+
+
+ Bez wyżywienia  [object Object]
+  
+    
+      
+    
+  
+  
+    
+    
+    
+      
+      
+    
+  
+
+    1 873 zł 1 823  [object Object]
+  
+    
+      
+    
+  
+  
+    
+    
+    
+      
+      
+    
+  
+
+   zł/os. 
+  SZCZEGÓŁY
+   [object Object]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  [object Object]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  5.8/6  28 ocen  [object Object]
+
+
+ Dias Apartments       [object Object]
+
+
+ Wypoczynek • Grecja: Riwiera Olimpijska     [object Object]
+
+
+ 
+      02.07.2022 (8 dni)
+     inne terminy    [object Object]
+
+
+ Katowice  [object Object]
+  
+    
+      
+    
+  
+  
+    
+    
+    
+      
+      
+    
+  
+
+    [object Object]
+
+
+ Bez wyżywienia  [object Object]
+  
+    
+      
+    
+  
+  
+    
+    
+    
+      
+      
+    
+  
+
+    1 933 zł 1 883  [object Object]
+  
+    
+      
+    
+  
+  
+    
+    
+    
+      
+      
+    
+  
+
+   zł/os. 
+  SZCZEGÓŁY
+   [object Object]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  [object Object]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    [object Object]
+
+
+ Grand Blue Villa Michaela       [object Object]
+
+
+ Wypoczynek • Grecja: Lesbos     [object Object]
+
+
+ 
+      06.07.2022 (8 dni)
+     inne terminy    [object Object]
+
+
+ Katowice   [object Object]
+
+
+ Bez wyżywienia  [object Object]
+  
+    
+      
+    
+  
+  
+    
+    
+    
+      
+      
+    
+  
+
+    1 951 zł 1 901  [object Object]
+  
+    
+      
+    
+  
+  
+    
+    
+    
+      
+      
+    
+  
+
+   zł/os. 
+  SZCZEGÓŁY
+   [object Object]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  [object Object]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  4.9/6  25 ocen  [object Object]
+
+
+ Chrysoula Studios       [object Object]
+
+
+ Wypoczynek • Grecja: Lesbos     [object Object]
+
+
+ 
+      29.06.2022 (8 dni)
+     inne terminy    [object Object]
+
+
+ Katowice   [object Object]
+
+
+ All inclusive  [object Object]
+  
+    
+      
+    
+  
+  
+    
+    
+    
+      
+      
+    
+  
+
+    1 955 zł 1 905  [object Object]
+  
+    
+      
+    
+  
+  
+    
+    
+    
+      
+      
+    
+  
+
+   zł/os. 
+  SZCZEGÓŁY
+   [object Object]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  [object Object]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  5.7/6  15 ocen  [object Object]
+
+
+ Lakis Studios       [object Object]
+
+
+ Wypoczynek • Grecja: Lesbos     [object Object]
+
+
+ 
+      29.06.2022 (8 dni)
+     inne terminy    [object Object]
+
+
+ Katowice   [object Object]
+
+
+ Bez wyżywienia  [object Object]
+  
+    
+      
+    
+  
+  
+    
+    
+    
+      
+      
+    
+  
+
+    1 956 zł 1 906  [object Object]
+  
+    
+      
+    
+  
+  
+    
+    
+    
+      
+      
+    
+  
+
+   zł/os. 
+  SZCZEGÓŁY
+   [object Object]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  [object Object]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  4.5/6  150 ocen  [object Object]
+
+
+ Paras Sun       [object Object]
+
+
+ Wypoczynek • Grecja: Rodos     [object Object]
+
+
+ 
+      27.06.2022 (8 dni)
+     inne terminy    [object Object]
+
+
+ Katowice  [object Object]
+  
+    
+      
+    
+  
+  
+    
+    
+    
+      
+      
+    
+  
+
+    [object Object]
+
+
+ Śniadania  [object Object]
+  
+    
+      
+    
+  
+  
+    
+    
+    
+      
+      
+    
+  
+
+    2 069 zł 2 019  [object Object]
+  
+    
+      
+    
+  
+  
+    
+    
+    
+      
+      
+    
+  
+
+   zł/os. 
+  SZCZEGÓŁY
+   [object Object]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  [object Object]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  5.1/6  43 oceny  [object Object]
+
+
+ Mari Evans Apartments       [object Object]
+
+
+ Wypoczynek • Grecja: Kreta - Heraklion     [object Object]
+
+
+ 
+      06.07.2022 (8 dni)
+     inne terminy    [object Object]
+
+
+ Łódź  [object Object]
+  
+    
+      
+    
+  
+  
+    
+    
+    
+      
+      
+    
+  
+
+    [object Object]
+
+
+ Bez wyżywienia   2 067 zł 2 037  [object Object]
+  
+    
+      
+    
+  
+  
+    
+    
+    
+      
+      
+    
+  
+
+   zł/os. 
+  SZCZEGÓŁY
+   [object Object]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  [object Object]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  5.5/6  13 ocen  [object Object]
+
+
+ Rafael Studios       [object Object]
+
+
+ Wypoczynek • Grecja: Lesbos     [object Object]
+
+
+ 
+      29.06.2022 (8 dni)
+     inne terminy    [object Object]
+
+
+ Katowice   [object Object]
+
+
+ Bez wyżywienia  [object Object]
+  
+    
+      
+    
+  
+  
+    
+    
+    
+      
+      
+    
+  
+
+    2 095 zł 2 045  [object Object]
+  
+    
+      
+    
+  
+  
+    
+    
+    
+      
+      
+    
+  
+
+   zł/os. 
+  SZCZEGÓŁY
+  [object Object]
+
+
+
+ Pokaż więcej ofert     [object Object]
+
+
+ Sortuj  [object Object]
+
+
+ Filtruj 1 [object Object]
+
+
+ Lista  [object Object]
+
+
+ Mapa ' or . = 'Rainbow  / Grecja Widok mapy  [object Object]
+
+
+ 
+            Filtry
+            [object Object]
+    
+ Wyczyść filtry  
+        Wyżywienie
+         [object Object]
+
+
+    [object Object]
+
+
+ 
+        All inclusive
+          [object Object]
+
+
+ 
+        3 posiłki
+          [object Object]
+
+
+ 
+        2 posiłki
+          [object Object]
+
+
+ 
+        Śniadania
+          [object Object]
+
+
+ 
+        Bez wyżywienia
+          
+        Ilość dni
+         [object Object]
+
+
+     
+    Do 6 dni
+     
+    7 - 9 dni
+     
+    10 - 13 dni
+     
+    14 - 17 dni
+     
+    Dowolna ilość dni
+      
+    -
+      
+        Typ wyjazdu
+         [object Object]
+
+
+    [object Object]
+
+
+ 
+        Wypoczynek
+          [object Object]
+
+
+ 
+        Objazd
+          [object Object]
+
+
+ 
+        Objazd + wypoczynek
+          
+        Cena
+         [object Object]
+
+
+   
+    -
+         
+    Cena za osobę
+     
+    Za wszystkie osoby
+     
+        Standard hotelu
+         [object Object]
+
+
+    [object Object]
+
+
+     [object Object]
+
+
+     [object Object]
+
+
+     [object Object]
+
+
+     
+        Ocena klientów
+         [object Object]
+
+
+     
+    Dowolna
+     
+    Od 5.0
+     
+    Od 4.0
+     
+    Od 3.0
+     
+        Sezon
+         [object Object]
+
+
+    [object Object]
+
+
+ 
+        Lato 2022
+          [object Object]
+
+
+ 
+        Zima 22/23
+          
+        Udogodnienia
+         [object Object]
+
+
+    [object Object]
+
+
+ 
+        Wi-Fi
+          [object Object]
+
+
+ 
+        Aquapark/zjeżdżalnie
+          [object Object]
+
+
+ 
+        Figloklub polscy animatorzy
+          [object Object]
+
+
+ 
+        Międzynarodowe animacje
+          [object Object]
+
+
+ 
+        SPA
+          [object Object]
+
+
+ 
+        Siłownia
+          [object Object]
+
+
+ 
+        Kort tenisowy
+          [object Object]
+
+
+ 
+        Darmowe leżaki
+          [object Object]
+
+
+ 
+        Plaża do 100 m
+          [object Object]
+
+
+ 
+        W/blisko centrum
+          
+        Dokumenty
+         [object Object]
+
+
+    [object Object]
+
+
+ 
+        Bez paszportu
+          [object Object]
+
+
+ 
+        Bez wizy
+          
+        Rodzaj hotelu
+         [object Object]
+
+
+    [object Object]
+
+
+ 
+        Nowość
+          [object Object]
+
+
+ 
+        Hotel Premium 
+          [object Object]
+
+
+ 
+        Rodzinny
+          [object Object]
+
+
+ 
+        Dla dorosłych
+          [object Object]
+
+
+ 
+        Sieć White Olive
+          [object Object]
+
+
+ 
+        Hotel Elite
+          
+        Pokoje
+         [object Object]
+
+
+    [object Object]
+
+
+ 
+        Z osobną sypialnią
+          [object Object]
+
+
+ 
+        Apartament z osobną sypialnią
+          [object Object]
+
+
+ 
+        Z widokiem na morze
+          [object Object]
+
+
+ 
+        Pokój Rodzinny
+          [object Object]
+
+
+ 
+        Studio
+          
+        Tematyka
+         [object Object]
+
+
+    [object Object]
+
+
+ 
+        City Break
+          [object Object]
+
+
+ 
+        Egzotyka
+          [object Object]
+
+
+ 
+        Egzotyka light
+          [object Object]
+
+
+ 
+        Europa i Orient
+          [object Object]
+
+
+ 
+        Kuchnia i wino
+          [object Object]
+
+
+ 
+        Parki rozrywki
+          [object Object]
+
+
+ 
+        Poza utartym szlakiem
+          [object Object]
+
+
+ 
+        Rejs statkiem
+          [object Object]
+
+
+ 
+        Smak przygody
+          [object Object]
+
+
+ 
+        Spokojne Wakacje 50+
+          [object Object]
+
+
+ 
+        Sylwester
+          [object Object]
+
+
+ 
+        Zainteresowania i hobby
+          [object Object]
+
+
+ 
+        Wycieczki objazdowe premium
+          
+        Promocje
+       (1)  [object Object]
+
+
+    [object Object]
+
+
+ 
+        Egzotyka 22/23 - Second Minute
+          [object Object]
+
+
+ 
+        Przedsmak Lata
+          [object Object]
+
+
+ 
+        Topniejące Rabaty!
+          [object Object]
+
+
+ 
+        Egzotyka 22/23 - przedsprzedaż
+          [object Object]
+
+
+ 
+        Last minute
+          [object Object]
+
+
+ 
+        Single nie płacą
+          [object Object]
+
+
+ 
+        Super Środa
+           
+          Grecja wakacje
+         
+            Znaleziono  83 oferty
+           Sortuj: od najniższej ceny  [object Object]
+
+
+       [object Object]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  [object Object]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  4.7/6  20 ocen  [object Object]
+
+
+ Armonia Studios       [object Object]
+
+
+ Wypoczynek • Grecja: Lesbos     [object Object]
+
+
+ 
+      29.06.2022 (8 dni)
+     inne terminy    [object Object]
+
+
+ Katowice   [object Object]
+
+
+ Bez wyżywienia   1 752 zł 1 702  [object Object]
+  
+    
+      
+    
+  
+  
+    
+    
+    
+      
+      
+    
+  
+
+   zł/os. 
+  SZCZEGÓŁY
+     [object Object]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  [object Object]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  5.5/6  11 ocen  [object Object]
+
+
+ Elena Studios       [object Object]
+
+
+ Wypoczynek • Grecja: Lesbos     [object Object]
+
+
+ 
+      29.06.2022 (8 dni)
+     inne terminy    [object Object]
+
+
+ Katowice   [object Object]
+
+
+ Bez wyżywienia  [object Object]
+  
+    
+      
+    
+  
+  
+    
+    
+    
+      
+      
+    
+  
+
+    1 804 zł 1 754  [object Object]
+  
+    
+      
+    
+  
+  
+    
+    
+    
+      
+      
+    
+  
+
+   zł/os. 
+  SZCZEGÓŁY
+   [object Object]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  [object Object]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  5.0/6  12 ocen  [object Object]
+
+
+ Nikos Studios       [object Object]
+
+
+ Wypoczynek • Grecja: Lesbos     [object Object]
+
+
+ 
+      06.07.2022 (8 dni)
+     inne terminy    [object Object]
+
+
+ Katowice   [object Object]
+
+
+ Bez wyżywienia  [object Object]
+  
+    
+      
+    
+  
+  
+    
+    
+    
+      
+      
+    
+  
+
+    1 873 zł 1 823  [object Object]
+  
+    
+      
+    
+  
+  
+    
+    
+    
+      
+      
+    
+  
+
+   zł/os. 
+  SZCZEGÓŁY
+   [object Object]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  [object Object]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  5.8/6  28 ocen  [object Object]
+
+
+ Dias Apartments       [object Object]
+
+
+ Wypoczynek • Grecja: Riwiera Olimpijska     [object Object]
+
+
+ 
+      02.07.2022 (8 dni)
+     inne terminy    [object Object]
+
+
+ Katowice  [object Object]
+  
+    
+      
+    
+  
+  
+    
+    
+    
+      
+      
+    
+  
+
+    [object Object]
+
+
+ Bez wyżywienia  [object Object]
+  
+    
+      
+    
+  
+  
+    
+    
+    
+      
+      
+    
+  
+
+    1 933 zł 1 883  [object Object]
+  
+    
+      
+    
+  
+  
+    
+    
+    
+      
+      
+    
+  
+
+   zł/os. 
+  SZCZEGÓŁY
+   [object Object]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  [object Object]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    [object Object]
+
+
+ Grand Blue Villa Michaela       [object Object]
+
+
+ Wypoczynek • Grecja: Lesbos     [object Object]
+
+
+ 
+      06.07.2022 (8 dni)
+     inne terminy    [object Object]
+
+
+ Katowice   [object Object]
+
+
+ Bez wyżywienia  [object Object]
+  
+    
+      
+    
+  
+  
+    
+    
+    
+      
+      
+    
+  
+
+    1 951 zł 1 901  [object Object]
+  
+    
+      
+    
+  
+  
+    
+    
+    
+      
+      
+    
+  
+
+   zł/os. 
+  SZCZEGÓŁY
+   [object Object]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  [object Object]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  4.9/6  25 ocen  [object Object]
+
+
+ Chrysoula Studios       [object Object]
+
+
+ Wypoczynek • Grecja: Lesbos     [object Object]
+
+
+ 
+      29.06.2022 (8 dni)
+     inne terminy    [object Object]
+
+
+ Katowice   [object Object]
+
+
+ All inclusive  [object Object]
+  
+    
+      
+    
+  
+  
+    
+    
+    
+      
+      
+    
+  
+
+    1 955 zł 1 905  [object Object]
+  
+    
+      
+    
+  
+  
+    
+    
+    
+      
+      
+    
+  
+
+   zł/os. 
+  SZCZEGÓŁY
+   [object Object]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  [object Object]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  5.7/6  15 ocen  [object Object]
+
+
+ Lakis Studios       [object Object]
+
+
+ Wypoczynek • Grecja: Lesbos     [object Object]
+
+
+ 
+      29.06.2022 (8 dni)
+     inne terminy    [object Object]
+
+
+ Katowice   [object Object]
+
+
+ Bez wyżywienia  [object Object]
+  
+    
+      
+    
+  
+  
+    
+    
+    
+      
+      
+    
+  
+
+    1 956 zł 1 906  [object Object]
+  
+    
+      
+    
+  
+  
+    
+    
+    
+      
+      
+    
+  
+
+   zł/os. 
+  SZCZEGÓŁY
+   [object Object]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  [object Object]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  4.5/6  150 ocen  [object Object]
+
+
+ Paras Sun       [object Object]
+
+
+ Wypoczynek • Grecja: Rodos     [object Object]
+
+
+ 
+      27.06.2022 (8 dni)
+     inne terminy    [object Object]
+
+
+ Katowice  [object Object]
+  
+    
+      
+    
+  
+  
+    
+    
+    
+      
+      
+    
+  
+
+    [object Object]
+
+
+ Śniadania  [object Object]
+  
+    
+      
+    
+  
+  
+    
+    
+    
+      
+      
+    
+  
+
+    2 069 zł 2 019  [object Object]
+  
+    
+      
+    
+  
+  
+    
+    
+    
+      
+      
+    
+  
+
+   zł/os. 
+  SZCZEGÓŁY
+   [object Object]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  [object Object]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  5.1/6  43 oceny  [object Object]
+
+
+ Mari Evans Apartments       [object Object]
+
+
+ Wypoczynek • Grecja: Kreta - Heraklion     [object Object]
+
+
+ 
+      06.07.2022 (8 dni)
+     inne terminy    [object Object]
+
+
+ Łódź  [object Object]
+  
+    
+      
+    
+  
+  
+    
+    
+    
+      
+      
+    
+  
+
+    [object Object]
+
+
+ Bez wyżywienia   2 067 zł 2 037  [object Object]
+  
+    
+      
+    
+  
+  
+    
+    
+    
+      
+      
+    
+  
+
+   zł/os. 
+  SZCZEGÓŁY
+   [object Object]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  [object Object]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  5.5/6  13 ocen  [object Object]
+
+
+ Rafael Studios       [object Object]
+
+
+ Wypoczynek • Grecja: Lesbos     [object Object]
+
+
+ 
+      29.06.2022 (8 dni)
+     inne terminy    [object Object]
+
+
+ Katowice   [object Object]
+
+
+ Bez wyżywienia  [object Object]
+  
+    
+      
+    
+  
+  
+    
+    
+    
+      
+      
+    
+  
+
+    2 095 zł 2 045  [object Object]
+  
+    
+      
+    
+  
+  
+    
+    
+    
+      
+      
+    
+  
+
+   zł/os. 
+  SZCZEGÓŁY
+  [object Object]
+
+
+
+ Pokaż więcej ofert     [object Object]
+
+
+ Sortuj  [object Object]
+
+
+ Filtruj 1 [object Object]
+
+
+ Lista  [object Object]
+
+
+ Mapa ')]</value>
+      <webElementGuid>7f6a679b-f8bc-4887-86d8-e016c2aeb76d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
